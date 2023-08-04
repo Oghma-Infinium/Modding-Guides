@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Oghma-Infinium/Modding-Guides/blob/main/images/Server%20Banner.png)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Modding-Guides/main/images/Server%20Banner.png)
 
 # Modding Guides
 
