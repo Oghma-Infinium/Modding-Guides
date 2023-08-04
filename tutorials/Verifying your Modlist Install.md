@@ -14,8 +14,12 @@ In the terminal window that opens, type in the following commands:
 
 `cd ..`
 
-Press Enter, then:
+Press Enter, then type in:
 
-`.\wabbajack-cli.bat verify-modlist-install -m {path to your WJ folder}\3.2.0.0\downloaded_mod_lists\iAmModlist_@@_wod.wabbajack -i "{WoD install folder path}"`
+`.\wabbajack-cli.bat verify-modlist-install -m {path to your WJ folder}\3.2.0.0\downloaded_mod_lists\{modlist wabbajack file} -i "{modlist install folder path}"`
 
 > **Remember to remove the `{ }` brackets around the commands and make sure to edit it so that it points to your install paths.**
+
+Using my install of Fahluaan as an example, the command would look like this for me:
+
+`.\wabbajack-cli.bat verify-modlist-install -m G:\Wabbajack\3.2.0.1\downloaded_mod_lists\WakingDreams_@@_fahluaan.wabbajack -i "F:\Fahluaan"`
