@@ -56,4 +56,4 @@ While building for HIMBO, 3BA, BHUNP, SAM, etc are all fundamentally the same, t
 
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Modding-Guides/main/images/Bodyslide%20Tutorial/changesforhimbo.PNG)
 
-**Step 2-8**: proceed the same as the 3BA guide above.
+**Step 2-8**: Proceed with the same steps as the 3BA guide above.

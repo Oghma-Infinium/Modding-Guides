@@ -10,7 +10,7 @@ Once the settings page is open, click the `Launch Wabbajack CLI` button:
 
 ![](https://raw.githubusercontent.com/iAmMe27/WoD/main/img/WJCLI.png)
 
-In the terminal window that opens, type in the following commands: 
+In the terminal window that opens, type in the following command: 
 
 `cd ..`
 
@@ -18,8 +18,8 @@ Press Enter, then type in:
 
 `.\wabbajack-cli.bat verify-modlist-install -m {path to your WJ folder}\3.2.0.1\downloaded_mod_lists\{modlist wabbajack file} -i "{modlist install folder path}"`
 
-> **Remember to remove the `{ }` brackets around the commands and make sure to edit it so that it points to your install paths.**
+> **Remember to remove the `{ }` brackets in the command and edit those sections so that it points to your own install paths.**
 
-Using my install of Fahluaan as an example, the command would look like this for me:
+Using my install of Vagabond as an example, the command would look like this for me:
 
-`.\wabbajack-cli.bat verify-modlist-install -m G:\Wabbajack\3.2.0.1\downloaded_mod_lists\WakingDreams_@@_fahluaan.wabbajack -i "F:\Fahluaan"`
+`.\wabbajack-cli.bat verify-modlist-install -m C:\Wabbajack\3.2.0.1\downloaded_mod_lists\Vagabond.wabbajack -i "F:\Vagabond"`
