@@ -22,4 +22,4 @@ Press Enter, then type in:
 
 Using my install of Vagabond as an example, the command would look like this for me:
 
-`.\wabbajack-cli.bat verify-modlist-install -m C:\Wabbajack\3.2.0.1\downloaded_mod_lists\Vagabond.wabbajack -i "F:\Vagabond"`
+`.\wabbajack-cli.bat verify-modlist-install -m C:\Wabbajack\3.2.0.1\downloaded_mod_lists\WakingDreams_@@_vagabond.wabbajack -i "F:\Vagabond"`
