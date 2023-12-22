@@ -1,5 +1,7 @@
 # Adding Armor Mods for Skyrim Outfit System
 
+## Introduction
+
 This guide will showcase how to add armor mods in a conflict-free manner for use with the mod [Skyrim Outfit System](https://www.nexusmods.com/skyrimspecialedition/mods/42162). This guide was originally made by user **firydoom3** on discord and has since been edited by **aljo**.
 
 ## Adding the Armor

@@ -1,5 +1,7 @@
 # Using Bodyslide
 
+## Introduction
+
 This guide will provide a quick run down of how to use Bodyslide to build armors for compatibility with [OBody](https://www.nexusmods.com/skyrimspecialedition/mods/77016?) or [AutoBody](https://www.nexusmods.com/skyrimspecialedition/mods/61321). For this guide we will be using the [Kvetchi Mercenary Set](https://www.nexusmods.com/skyrimspecialedition/mods/79226), as well as the [3BA](https://www.nexusmods.com/skyrimspecialedition/mods/83171) and [HIMBO](https://www.nexusmods.com/skyrimspecialedition/mods/86564) conversions for it. 
 
 This guide will not be covering how to install or set up the mods themselves, as that should be knowledge you have by this point.
