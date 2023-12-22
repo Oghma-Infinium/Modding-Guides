@@ -14,27 +14,13 @@ Once the settings page is open, click the `Launch Wabbajack CLI` button:
 
 ![](https://raw.githubusercontent.com/iAmMe27/WoD/main/img/WJCLI.png)
 
-## Configuring the Terminal
-
-In the terminal window that opens, you'll need to follow these steps precisely:
-
-1. Highlight the directory path before the `>` symbol, but **make sure you do not include the `>` symbol**. Then copy that directory by pressing `Ctrl+C` on your keyboard
-
-2. Type in the follwing: `cd` *(Do not press enter yet!)*
-
-3. Press space on your keyboard, then press `Ctrl+V`
-
-4. Type in `\cli` at the end of the directory you pasted, then press `Enter` on your keyboard
-
-If you've done the following steps above correctly, the terminal should now have `\cli` attached to the end of the directory before the `>` symbol.
-
-In case you're a visual learner, GIF example is below:
-
-![](https://raw.githubusercontent.com/Oghma-Infinium/Modding-Guides/main/images/WJVerify%20Example.gif)
-
 ## Verifying the Modlist
 
-After you've done the following steps above, you'll need to type in the command below:
+In the terminal window that opens, type in the following command:
+
+`cd cli`
+
+Press `Enter`, then type in:
 
 `wabbajack-cli verify-modlist-install -m {path to your WJ folder}\3.4.1.0\downloaded_mod_lists\{modlist wabbajack file} -i "{modlist install folder path}"`
 
