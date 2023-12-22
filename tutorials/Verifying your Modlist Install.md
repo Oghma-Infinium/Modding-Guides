@@ -4,7 +4,7 @@
 
 Sometimes modlists aren't perfectly installed - computers are fallible and there are many reasons as to why a modlist doesn't install 100% correctly *but* Wabbajack has a function built in to verify a modlist install. If you suspect that something isn't right with your install for whatever reason, you can run this to get Wabbajack to check.
 
-## Opening Wabbajack
+## Opening the Wabbajack Terminal
 
 So, how do we do this? First, start by opening Wabbajack and clicking the gear icon in the top right to open the settings page:
 
