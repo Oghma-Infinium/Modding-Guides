@@ -26,7 +26,7 @@ Press Enter, then type in:
 
 > **Remember to remove the `{ }` brackets in the command and edit those sections so that it points to your own install paths!**
 
-I recommend copy-pasting the above command into a notepad program, then filling out the bracketed sections on said Notepad to accomadate your directories, and copy-pasting the command back into the terminal.
+I recommend copy-pasting the above command into a notepad program, then filling out the bracketed sections on said Notepad to accommodate your directories, and copy-pasting the command back into the terminal.
 
 Using my Vagabond install as an example, the command would look like this for me:
 
