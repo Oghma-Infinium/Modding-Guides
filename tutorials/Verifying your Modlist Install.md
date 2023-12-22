@@ -28,7 +28,9 @@ In the terminal window that opens, you'll need to follow these steps precisely:
 
 If you've done the following steps above correctly, the terminal should now have `\cli` attached to the end of the directory before the `>` symbol.
 
-In case you're a visual learner, GIF example is here:
+In case you're a visual learner, GIF example is below:
+
+![](https://raw.githubusercontent.com/Oghma-Infinium/Modding-Guides/main/images/WJVerify%20Example.gif)
 
 ## Verifying the Modlist
 
