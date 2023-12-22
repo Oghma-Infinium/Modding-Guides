@@ -20,7 +20,7 @@ In the terminal window that opens, type in the following command:
 
 `cd cli`
 
-Press `Enter`, then type in:
+Press Enter, then type in:
 
 `wabbajack-cli verify-modlist-install -m {path to your WJ folder}\3.4.1.0\downloaded_mod_lists\{modlist wabbajack file} -i "{modlist install folder path}"`
 
