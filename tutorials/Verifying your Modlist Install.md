@@ -22,12 +22,12 @@ In the terminal window that opens, type in the following command:
 
 Press Enter, then type in:
 
-`wabbajack-cli verify-modlist-install -m {path to your WJ folder}\3.4.1.0\downloaded_mod_lists\{modlist wabbajack file} -i "{modlist install folder path}"`
+`wabbajack-cli verify-modlist-install -m {path to your WJ folder}\3.4.2.0\downloaded_mod_lists\{modlist wabbajack file} -i "{modlist install folder path}"`
 
 > **Remember to remove the `{ }` brackets in the command and edit those sections so that it points to your own install paths!**
 
-I recommend copy-pasting the above command into a notepad program, then filling out the bracketed sections on said Notepad to accommodate your directories, and copy-pasting the command back into the terminal.
+I recommend copy-pasting the above command into a notepad program, then filling out the bracketed sections on said notepad to accommodate your directories, and copy-pasting the command back into the terminal.
 
 Using my Vagabond install as an example, the command would look like this for me:
 
-`wabbajack-cli verify-modlist-install -m F:\Wabbajack\3.4.1.0\downloaded_mod_lists\WakingDreams_@@_vagabond.wabbajack -i "F:\Vagabond"`
+`wabbajack-cli verify-modlist-install -m F:\Wabbajack\3.4.2.0\downloaded_mod_lists\WakingDreams_@@_vagabond.wabbajack -i "F:\Vagabond"`
